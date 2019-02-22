@@ -1,3 +1,3 @@
 def foo(x):
-    if x:
+    while x:
         pass
